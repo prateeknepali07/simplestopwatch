@@ -30,3 +30,9 @@
     transform: rotate(360deg);
   }
 }
+
+span {
+  font-size: 50px;
+  colour: #fff;
+  padding: 10px;
+}
